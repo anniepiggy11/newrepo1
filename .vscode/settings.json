@@ -1,0 +1,9 @@
+{
+     // 自定义 scope 列表
+  "conventionalCommits.scopes": [
+    "ex1",
+    "ex2",
+    "p1"
+    //其他scope
+  ]
+}
