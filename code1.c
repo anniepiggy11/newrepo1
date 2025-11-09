@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("meow~");
+    printf("meo~");
+    printf("\ncat");
     return 0;
 }
